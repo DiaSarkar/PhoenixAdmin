@@ -1,7 +1,6 @@
 # Download Library
 
 library(shiny)
-install.packages("shinydashboard")
 library(shinydashboard)
 library(entropy)
 library(FSelector)
