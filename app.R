@@ -1,5 +1,5 @@
 # Download Library
-#install.packages('shinydashboard')
+install.packages('shinydashboard')
 library(shiny)
 library(shinydashboard)
 library(entropy)
