@@ -1,0 +1,12 @@
+name: phoenixadmin
+title:
+username:
+account: diasarkar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2525211
+bundleId: 3341786
+url: https://diasarkar.shinyapps.io/phoenixadmin/
+when: 1593657446.23377
+asMultiple: FALSE
+asStatic: FALSE
